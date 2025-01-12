@@ -6,7 +6,7 @@ Este espaço foi criar para compartilhar meus conhecimentos e receber sugestões
 
  - Lua ( the best )
  - C
- - C#
+ - JavaScript
  
  
  
